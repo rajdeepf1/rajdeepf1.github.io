@@ -55,7 +55,7 @@ Welcome to my Mobile App developer portfolio on GitHub! Here, you'll find a coll
 
 ## Skills
 
-## Programming Languages
+### Programming Languages
 
 - Java
 - Kotlin
