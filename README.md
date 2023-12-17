@@ -1,53 +1,53 @@
-# rajdeepf1.github.io
-# [Rajdeep Singh]'s Software Developer Portfolio
+# [rajdeepf1.github.io]
+# Rajdeep Singh's Software Developer Portfolio
 
 Welcome to my Mobile App developer portfolio on GitHub! Here, you'll find a collection of projects that showcase my skills, expertise, and interests in mobile app development.
 
 ## Projects
 
-### [PRUNE: SIM, Forex & Payments]
+### PRUNE: SIM, Forex & Payments
 
 - Description: Briefly describe the project, its purpose, and the problem it solves.
 - Technologies Used: List the programming languages, frameworks, and tools utilized.
 - Demo: Add a link to a live demo (if available) or screenshots showcasing the project.
 
-### [HelloFitness App]
+### HelloFitness App
 
 - Description: Another brief description of the project, its relevance, and functionalities.
 - Technologies Used: Mention the technologies and tools employed in this project.
 - Demo: Link to any live demos, videos, or screenshots to demonstrate the project.
 
-### [Puresh Daily - 100% Pure Cow Milk]
+### Puresh Daily - 100% Pure Cow Milk
 
 - Description: Describe another project, its significance, and the skills demonstrated.
 - Technologies Used: Specify the technologies, libraries, and frameworks used.
 - Demo: Include links to live demos, GitHub Pages, or images showcasing the project.
 
-### [Essentials-Ranchi Ka Apna Online Supermarket]
+### Essentials-Ranchi Ka Apna Online Supermarket
 
 - Description: Describe another project, its significance, and the skills demonstrated.
 - Technologies Used: Specify the technologies, libraries, and frameworks used.
 - Demo: Include links to live demos, GitHub Pages, or images showcasing the project.
 
-### [Pizza Singh (Academic Capstone Android Project)]
+### Pizza Singh (Academic Capstone Android Project)
 
 - Description: Describe another project, its significance, and the skills demonstrated.
 - Technologies Used: Specify the technologies, libraries, and frameworks used.
 - Demo: Include links to live demos, GitHub Pages, or images showcasing the project.
 
-### [Birthday Reminder App (Academic Android Project)]
+### Birthday Reminder App (Academic Android Project)
 
 - Description: Describe another project, its significance, and the skills demonstrated.
 - Technologies Used: Specify the technologies, libraries, and frameworks used.
 - Demo: Include links to live demos, GitHub Pages, or images showcasing the project.
 
-### [CosmoDeep App (Academic Android Project)]
+### CosmoDeep App (Academic Android Project)
 
 - Description: Describe another project, its significance, and the skills demonstrated.
 - Technologies Used: Specify the technologies, libraries, and frameworks used.
 - Demo: Include links to live demos, GitHub Pages, or images showcasing the project.
 
-### [Weather App (Academic IOS Project)]
+### Weather App (Academic IOS Project)
 
 - Description: Describe another project, its significance, and the skills demonstrated.
 - Technologies Used: Specify the technologies, libraries, and frameworks used.
@@ -60,95 +60,91 @@ Welcome to my Mobile App developer portfolio on GitHub! Here, you'll find a coll
 - Java
 - Kotlin
 
-## Android Development Tools and Frameworks
+### Android Development Tools and Frameworks
 
 - Android SDK
 - Android Studio
 - Material Design
 - Gradle
 
-## User Interface (UI) Design
+### User Interface (UI) Design
 
 - XML layout
 - ConstraintLayout
 - RecyclerView
 - ViewPager
 
-## User Experience (UX)
+### User Experience (UX)
 
 - Design patterns (MVP, MVVM)
 - Usability and accessibility
 
-## Data Storage
+### Data Storage
 
 - SQLite
 - Room Persistence Library
 - SharedPreferences
 
-## Networking
+### Networking
 
 - RESTful APIs
 - Retrofit
 - Volley
 - OkHttp
 
-## Firebase Integration
+### Firebase Integration
 
 - Realtime Database
 - Cloud Firestore
 - Firebase Authentication
 - Cloud Messaging
 
-## Dependency Injection
+### Dependency Injection
 
 - Dagger
 - Koin
 
-## Version Control
+### Version Control
 
 - Git
 - GitHub
 
-## Testing and Debugging
+### Testing and Debugging
 
 - JUnit
 - Espresso
 - Mockito
 - Android Debug Bridge (ADB)
 
-## Performance Optimization
+### Performance Optimization
 
 - Memory management
 - Multithreading
 
-## Third-party Libraries
+### Third-party Libraries
 
 - Glide
 - Picasso
 - Retrofit
 - ButterKnife
 
-## Publishing and Deployment
+### Publishing and Deployment
 
 - Google Play Store submission process
 
-## Cross-platform Development
+### Cross-platform Development
 
 - React Native (JS and TS)
 
 ## About Me
 
-Provide a brief introduction about yourself as a software developer. Talk about your passion, experience, and what drives you in the tech industry.
+Hello! I'm Rajdeep Singh, an Android Developer with 4+ years of experience crafting intuitive and high-performing mobile applications. Proficient in Java and Kotlin, I specialize in building robust apps using the latest Android SDK and Material Design principles.
 
 ## Contact Information
 
-- Email: [Your Email Address]
-- LinkedIn: [Your LinkedIn Profile URL]
-- Portfolio Website: [Your Portfolio Website URL]
-
-## Contributions and Collaborations
-
-If you've contributed to open-source projects or collaborated on projects, you can mention them here with links to those repositories or organizations.
+- Email: rajdeepf1@gmail.com
+- LinkedIn: https://www.linkedin.com/in/rajdeepf1
+- Portfolio Website: https://rajdeepf1.github.io
 
 ## How to Reach Out
 
