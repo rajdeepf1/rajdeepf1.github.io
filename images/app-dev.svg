@@ -12,19 +12,19 @@
     <circle data-name="Ellipse 60" cx="381.415" cy="182.571" r="62.889" fill="#fff" />
     <path data-name="Path 341"
         d="M382.815 146.9a35.856 35.856 0 1035.856 35.857 35.856 35.856 0 00-35.856-35.856zm0 10.758a10.757 10.757 0 11-10.757 10.757 10.757 10.757 0 0110.757-10.757zm0 51.784a26.121 26.121 0 01-21.514-11.481c.172-7.171 14.342-11.12 21.514-11.12s21.341 3.949 21.514 11.12a26.164 26.164 0 01-21.514 11.484z"
-        fill="#ff9000" />
+        fill="#03A9F4" />
     <path data-name="Rectangle 26" fill="#e6e6e6" d="M316.605 279.75h125.838v9.458H316.605z" />
     <path data-name="Rectangle 27" fill="#e6e6e6" d="M299.768 304.327h158.368v9.458H299.768z" />
     <path data-name="Rectangle 25-2" fill="#e6e6e6" d="M271.868 374.923h223.094v223.094H271.868z" />
     <path data-name="Rectangle 25-3" fill="#fff" d="M275.415 379.643H489.07v213.655H275.415z" />
     <g data-name="Group 22">
         <path data-name="Rectangle 28" fill="#e6e6e6" d="M319.415 400.267h83.168v6.251h-83.168z" />
-        <path data-name="Rectangle 29" fill="#ff9000" d="M319.415 418.619h128.429v6.251H319.415z" />
+        <path data-name="Rectangle 29" fill="#03A9F4" d="M319.415 418.619h128.429v6.251H319.415z" />
         <path data-name="Rectangle 30" fill="#e6e6e6" d="M320.75 436.096h104.667v6.251H320.75z" />
         <path data-name="Rectangle 31" fill="#e6e6e6" d="M319.415 455.272h61.103v6.251h-61.103z" />
-        <path data-name="Rectangle 32" fill="#ff9000" d="M319.415 474.003h92.22v6.251h-92.22z" />
+        <path data-name="Rectangle 32" fill="#03A9F4" d="M319.415 474.003h92.22v6.251h-92.22z" />
         <path data-name="Rectangle 38" fill="#e6e6e6" d="M319.415 492.851h83.168v6.251h-83.168z" />
-        <path data-name="Rectangle 39" fill="#ff9000" d="M319.415 511.202h128.429v6.251H319.415z" />
+        <path data-name="Rectangle 39" fill="#03A9F4" d="M319.415 511.202h128.429v6.251H319.415z" />
         <path data-name="Rectangle 40" fill="#e6e6e6" d="M320.75 528.679h104.667v6.251H320.75z" />
         <path data-name="Rectangle 41" fill="#e6e6e6" d="M319.415 547.856h61.103v6.251h-61.103z" />
         <path data-name="Rectangle 42" fill="#e6e6e6" d="M319.415 566.587h92.22v6.251h-92.22z" />
@@ -35,10 +35,10 @@
             fill="#ffb8b8" />
         <path data-name="Path 386"
             d="M669.972 418.752l18.895-1.733a3.73 3.73 0 003.364-4.037l-3.5-39.292a14.326 14.326 0 00-28.538 2.548q.036.406.095.809l5.666 38.54a3.724 3.724 0 003.678 3.181 2.64 2.64 0 00.34-.016z"
-            fill="#ff9000" />
+            fill="#03A9F4" />
         <path data-name="Path 387"
             d="M684.294 387.009a26.316 26.316 0 00-9.679-30.288c-7.125-4.875-16.875-6.625-27.375 5.875-21 25-26.5 52.5-26.5 52.5l43 7s14.623-17.875 20.554-35.087z"
-            fill="#ff9000" />
+            fill="#03A9F4" />
         <path data-name="Path 388" d="M614.747 668.615h-12.26l-5.832-47.288h18.094z" fill="#ffb8b8" />
         <path data-name="Path 389" d="M578.846 679.998h38.531v-14.887h-23.644a14.887 14.887 0 00-14.887 14.887z"
             fill="#2f2e41" />
@@ -64,7 +64,7 @@
             fill="#ffb8b8" />
         <path data-name="Path 398"
             d="M627.6 380.172l13.883 17.994a4.5 4.5 0 006.8.373L664 382.218a12.5 12.5 0 00-14.925-20.056q-.204.152-.402.312l-19.712 11.022a4.5 4.5 0 00-1.365 6.676z"
-            fill="#ff9000" />
+            fill="#03A9F4" />
     </g>
     <g data-name="Group 24">
         <path data-name="Path 552"
